@@ -12,7 +12,7 @@ public class App {
         
         caixaLuizote.saque("1164-9",1200);
         caixaLuizote.saque("1324-9", 600);
-        caixaLuizote.saque("1442-1", 1000);
+        caixaLuizote.saque("1442-1", 4000);
         caixaLuizote.atualizarRendimentoContas(0.05);
     }
 }
